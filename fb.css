@@ -8,6 +8,9 @@
 
 }
 
+.gray{
+    background-color:#f0f2f5;
+}
 
 .db{
     background-color: #241f33;
@@ -22,6 +25,10 @@
 }
 .bx1{
     box-shadow: 20px 20px 0px 0px black;
+}
+
+.bx3{
+    box-shadow: 0px 0px 5px 1px silver;
 }
 
 .bx2:hover{
@@ -350,6 +357,16 @@
     border: 2px solid black;
     border-radius: 20px;
 }
+
+.bd2{
+    border: 1px solid #dddfe2;
+    outline-color: blue;
+}
+.bd4{
+    border: 1px solid black;
+    outline-color: blue;
+}
+
 .bd1{
     border: 2px solid black;
     border-radius: 10px;
